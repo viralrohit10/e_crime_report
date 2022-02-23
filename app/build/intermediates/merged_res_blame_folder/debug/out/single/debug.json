@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sosgreen.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\sosgreen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image8.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\image8.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_provide2.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_info_provide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_border.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\ic_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user2.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sos_img.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\sos_img.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_selector.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\edittext_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_back.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_back.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cardrviewres1.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\cardrviewres1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trafficaccident.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\trafficaccident.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_policereportenquiry.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_policereportenquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image2.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crime2.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\crime2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\cover.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_police_report_enquiry.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_police_report_enquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image6.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\image6.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pilice_report_inquiry.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\pilice_report_inquiry.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_victimsupport.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\victimsupport.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_media.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable-v24\\media.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_border.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\my_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_user.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lock.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fine_payment.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_fine_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sos.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\sos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_service.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable-v24\\service.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_trafic_accident.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_trafic_accident.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_back.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_border.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\card_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image4.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\image4.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cybercrime.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\cybercrime.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_receipt.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\view_receipt.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_accident.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\accident.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_provide_info.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\provide_info.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_image.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\circle_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_back.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_media.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\fragment_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ecr_logo.jpeg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\ecr_logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_appintro.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_appintro.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\menu_itemdetail.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\menu\\itemdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_back.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fine_pay.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\fine_pay.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_report_crime.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_report_crime.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_back.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unknown_accident2.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\unknown_accident2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_toolbar.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\app_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_info_provide.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_info_provide.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_report_crime.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\report_crime.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anonymous_report.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_anonymous_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sos.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_back.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_dome2.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\dome2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_layout.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\alert_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unknownaccident.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\unknownaccident.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_victim_support.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_victim_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_home_24.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_services.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\fragment_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_unknown_accident.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_unknown_accident.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_accident2.png.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\accident2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unknown_accident.jpg.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\drawable\\unknown_accident.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\DELL\\AndroidStudioProjects\\eCrimeReport\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]

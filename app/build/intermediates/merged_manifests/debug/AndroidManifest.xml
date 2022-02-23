@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.hv.e_crimereport"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:exported="true"
+        android:icon="@drawable/ecr_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ECrimeReport" >
+        <activity
+            android:name="com.hv.e_crimereport.services.save_people.Victim_support"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.services.criminal_service.police_report_enquiry"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.services.criminal_service.info_provide"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.AnonymousReport"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.services.save_people.UnknownAccident"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.services.criminal_service.Report_crime"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.services.traffic_service.fine_payment"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.services.save_people.Trafic_accident"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.services.save_people.sos"
+            android:exported="false"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.ForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name="com.hv.e_crimereport.Appintro"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hv.e_crimereport.SplashActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.hv.e_crimereport.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.hv.e_crimereport.RegisterActivity"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+        <activity
+            android:name="com.hv.e_crimereport.LoginActivity"
+            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+    </application>
+
+</manifest>

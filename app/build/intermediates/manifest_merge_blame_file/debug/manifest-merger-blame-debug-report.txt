@@ -1,0 +1,158 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="com.hv.e_crimereport"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="16"
+9-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml
+11
+12    <dist:module dist:instant="true" />
+12-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:7:5-40
+12-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:7:18-37
+13
+14    <application
+14-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:9:5-77:19
+15        android:allowBackup="true"
+15-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:10:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\cc5e9dcdc56dc39042f72c501235e83f\core-1.5.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:exported="true"
+18-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:11:9-32
+19        android:icon="@drawable/ecr_logo"
+19-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:12:9-42
+20        android:label="@string/app_name"
+20-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:13:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:14:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:15:9-35
+23        android:theme="@style/Theme.ECrimeReport" >
+23-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:16:9-50
+24        <activity
+24-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:17:9-20:40
+25            android:name="com.hv.e_crimereport.services.save_people.Victim_support"
+25-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:18:13-64
+26            android:exported="false"
+26-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:20:13-37
+27            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+27-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:19:13-55
+28        <activity
+28-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:21:9-24:40
+29            android:name="com.hv.e_crimereport.services.criminal_service.police_report_enquiry"
+29-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:22:13-76
+30            android:exported="false"
+30-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:24:13-37
+31            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+31-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:23:13-55
+32        <activity
+32-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:25:9-28:40
+33            android:name="com.hv.e_crimereport.services.criminal_service.info_provide"
+33-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:26:13-67
+34            android:exported="false"
+34-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:28:13-37
+35            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+35-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:27:13-55
+36        <activity
+36-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:29:9-32:58
+37            android:name="com.hv.e_crimereport.AnonymousReport"
+37-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:30:13-44
+38            android:exported="false"
+38-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:31:13-37
+39            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+39-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:32:13-55
+40        <activity
+40-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:33:9-36:58
+41            android:name="com.hv.e_crimereport.services.save_people.UnknownAccident"
+41-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:34:13-65
+42            android:exported="false"
+42-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:35:13-37
+43            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+43-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:36:13-55
+44        <activity
+44-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:37:9-40:58
+45            android:name="com.hv.e_crimereport.services.criminal_service.Report_crime"
+45-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:38:13-67
+46            android:exported="false"
+46-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:39:13-37
+47            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+47-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:40:13-55
+48        <activity
+48-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:41:9-44:58
+49            android:name="com.hv.e_crimereport.services.traffic_service.fine_payment"
+49-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:42:13-66
+50            android:exported="false"
+50-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:43:13-37
+51            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+51-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:44:13-55
+52        <activity
+52-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:45:9-48:58
+53            android:name="com.hv.e_crimereport.services.save_people.Trafic_accident"
+53-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:46:13-65
+54            android:exported="false"
+54-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:47:13-37
+55            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+55-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:48:13-55
+56        <activity
+56-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:49:9-52:58
+57            android:name="com.hv.e_crimereport.services.save_people.sos"
+57-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:50:13-53
+58            android:exported="false"
+58-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:51:13-37
+59            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+59-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:52:13-55
+60        <activity
+60-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:53:9-55:40
+61            android:name="com.hv.e_crimereport.ForgotPassword"
+61-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:54:13-43
+62            android:exported="false" />
+62-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:55:13-37
+63        <activity
+63-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:56:9-64:20
+64            android:name="com.hv.e_crimereport.Appintro"
+64-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:57:13-37
+65            android:exported="true" >
+65-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:58:13-36
+66            <intent-filter>
+66-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:59:13-63:29
+67                <action android:name="android.intent.action.MAIN" />
+67-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:60:17-69
+67-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:60:25-66
+68
+69                <category android:name="android.intent.category.LAUNCHER" />
+69-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:62:17-77
+69-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:62:27-74
+70            </intent-filter>
+71        </activity>
+72        <activity
+72-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:65:9-67:40
+73            android:name="com.hv.e_crimereport.SplashActivity"
+73-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:66:13-43
+74            android:exported="false" />
+74-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:67:13-37
+75        <activity
+75-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:68:9-70:39
+76            android:name="com.hv.e_crimereport.MainActivity"
+76-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:69:13-41
+77            android:exported="true" />
+77-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:70:13-36
+78        <activity
+78-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:71:9-73:58
+79            android:name="com.hv.e_crimereport.RegisterActivity"
+79-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:72:13-45
+80            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+80-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:73:13-55
+81        <activity
+81-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:74:9-76:58
+82            android:name="com.hv.e_crimereport.LoginActivity"
+82-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:75:13-42
+83            android:parentActivityName="com.hv.e_crimereport.MainActivity" />
+83-->C:\Users\DELL\AndroidStudioProjects\eCrimeReport\app\src\main\AndroidManifest.xml:76:13-55
+84    </application>
+85
+86</manifest>

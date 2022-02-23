@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/sos_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_margin="15dp"
+        android:clipChildren="false"
+        android:background="@drawable/my_border"
+        android:clipToPadding="false"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0.0px"
+        android:elevation="8dp"
+        app:cardCornerRadius="20dp"
+        app:cardPreventCornerOverlap="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints"
+        android:layout_marginLeft="15dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_marginStart="16dp"
+                android:text="Save People Life"
+                android:textColor="@color/black"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginLeft="16dp"
+                tools:ignore="DuplicateIds" />
+
+            <View
+                android:id="@+id/view2"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_margin="15dp"
+                android:background="@android:color/black"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/text2"
+                tools:ignore="DuplicateIds" />
+
+
+            <ImageView
+                android:id="@+id/report_crime_img"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="37dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/sos"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/view2"
+                app:riv_corner_radius="15dp"
+                android:layout_marginLeft="37dp"
+                tools:ignore="DuplicateIds" />
+
+            <TextView
+                android:id="@+id/sos_tv"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="36dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="15dp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="SOS"
+                android:textSize="10sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/report_crime_img"
+                app:layout_constraintVertical_bias="0.111"
+                tools:ignore="DuplicateIds"
+                android:layout_marginLeft="36dp" />
+
+            <ImageView
+                android:id="@+id/unknown_accident_img"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="37dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/unknown_accident"
+                app:layout_constraintStart_toEndOf="@+id/report_crime_img"
+                app:layout_constraintTop_toBottomOf="@+id/view2"
+                app:riv_corner_radius="15dp"
+                tools:ignore="DuplicateIds"
+                android:layout_marginLeft="37dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="69dp"
+                android:layout_height="39dp"
+                android:layout_marginStart="28dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center|top"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="Unknown Accident"
+                android:textSize="10sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/sos_tv"
+                app:layout_constraintTop_toBottomOf="@+id/unknown_accident_img"
+                app:layout_constraintVertical_bias="0.0"
+                tools:ignore="DuplicateIds"
+                android:layout_marginLeft="28dp" />
+
+            <ImageView
+                android:id="@+id/report_inquiry_img"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="37dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/accident"
+                app:layout_constraintStart_toEndOf="@+id/unknown_accident_img"
+                app:layout_constraintTop_toBottomOf="@+id/view2"
+                app:riv_corner_radius="15dp"
+                android:layout_marginLeft="37dp"
+                tools:ignore="DuplicateIds" />
+
+            <TextView
+                android:id="@+id/traffic_accident_tv"
+                android:layout_width="77dp"
+                android:layout_height="36dp"
+                android:layout_marginStart="14dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center|top"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="Report Traffic Accident"
+                android:textSize="10sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textView2"
+                app:layout_constraintTop_toBottomOf="@+id/report_inquiry_img"
+                app:layout_constraintVertical_bias="0.0"
+                android:layout_marginLeft="14dp" />
+
+            <ImageView
+                android:id="@+id/victim_support_img"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="37dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/victimsupport"
+                app:layout_constraintStart_toEndOf="@+id/report_inquiry_img"
+                app:layout_constraintTop_toBottomOf="@+id/view2"
+                app:riv_corner_radius="15dp"
+                android:layout_marginLeft="37dp" />
+
+            <TextView
+                android:layout_width="84dp"
+                android:layout_height="44dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center|top"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="Victim Support Program"
+                android:textSize="10sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/traffic_accident_tv"
+                app:layout_constraintTop_toBottomOf="@+id/victim_support_img"
+                app:layout_constraintVertical_bias="0.0"
+                android:layout_marginLeft="8dp" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:layout_marginStart="16dp"
+            android:text="Criminial Services"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginLeft="16dp" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="15dp"
+            android:background="@android:color/black"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/text2" />
+
+
+        <ImageView
+            android:id="@+id/report_crime_img"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/report_crime"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/view2"
+            android:layout_marginLeft="37dp" />
+
+        <TextView
+            android:id="@+id/sos_tv"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="15dp"
+            android:gravity="center|top"
+            android:text="Report Crime"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/report_crime_img"
+            app:layout_constraintVertical_bias="0.111"
+            android:layout_marginLeft="36dp" />
+
+        <ImageView
+            android:id="@+id/unknown_accident_img"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/provide_info"
+            app:layout_constraintStart_toEndOf="@+id/report_crime_img"
+            app:layout_constraintTop_toBottomOf="@+id/view2"
+            app:riv_corner_radius="15dp" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="69dp"
+            android:layout_height="39dp"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center|top"
+            android:text="Provide Information"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/sos_tv"
+            app:layout_constraintTop_toBottomOf="@+id/unknown_accident_img"
+            app:layout_constraintVertical_bias="0.0"
+            android:layout_marginLeft="28dp" />
+
+        <ImageView
+            android:id="@+id/report_inquiry_img"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/pilice_report_inquiry"
+            app:layout_constraintStart_toEndOf="@+id/unknown_accident_img"
+            app:layout_constraintTop_toBottomOf="@+id/view2"
+            app:riv_corner_radius="15dp"
+            android:layout_marginLeft="37dp" />
+
+        <TextView
+            android:id="@+id/traffic_accident_tv"
+            android:layout_width="77dp"
+            android:layout_height="36dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center|top"
+            android:text="Report Report Inquiry"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/textView20"
+            app:layout_constraintTop_toBottomOf="@+id/report_inquiry_img"
+            app:layout_constraintVertical_bias="0.0"
+            android:layout_marginLeft="14dp" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+</LinearLayout>
